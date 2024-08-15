@@ -58,7 +58,7 @@ const ReportPage = () => {
         marker: {
             series: [{
                 name: 'Availability',
-                data: [10, 15, 20, 25, 30, 35, 40]
+                data: [5, 15, 20, 15, 40, 25, 20]
             }],
             options: {
                 chart: {
